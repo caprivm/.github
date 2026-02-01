@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juan-camilo-caviedes/)
 
+> **Note:** This README is a template. Please customize the sections below with your actual information from your LinkedIn profile, including specific skills, projects, contact details, and personal interests.
+
 ## 🚀 About Me
 
 I'm a passionate software professional with expertise in building innovative solutions and driving technological excellence. With a strong foundation in software development and a keen interest in emerging technologies, I strive to create impactful projects that solve real-world problems.
@@ -32,6 +34,8 @@ My journey in technology has been driven by curiosity, continuous learning, and 
 
 ### Featured Projects
 
+<!-- TODO: Replace these placeholder projects with your actual projects from LinkedIn or GitHub -->
+
 #### 🌟 [Project Name 1]
 **Description:** A brief description of your key project and its impact.
 - **Technologies:** List the tech stack used
@@ -58,7 +62,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - **LinkedIn:** [juan-camilo-caviedes](https://www.linkedin.com/in/juan-camilo-caviedes/)
 - **GitHub:** [@caprivm](https://github.com/caprivm)
-- **Email:** [Your Email]
+<!-- TODO: Add your actual contact information below -->
+- **Email:** [Your Email Here]
 - **Portfolio:** [Your Portfolio Website]
 - **Twitter/X:** [@YourHandle]
 
